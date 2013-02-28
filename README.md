@@ -1,3 +1,3 @@
-# My little github web space #
+# My github web space #
 
 Hello! [Check it out!](http://jugglingnutcase.github.com)
