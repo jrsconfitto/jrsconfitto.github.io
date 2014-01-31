@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Ruminations'
+tagline:          'a place to sit and think'
+description:      'so many thoughts and feelings thrown into the internet'
+url:              http://jugglingnutcase.github.io
+
+author:
+  name:           'James Sconfitto'
+  url:            https://twitter.com/jugglingnutcase
+  email:          jugglingnutcase@gmail.com
+
+paginate:         5
+
+github:
+  repo:           https://github.com/jugglingnutcase/jugglingnutcase.github.io
+
+exclude:          ['LICENSE', 'README.md']

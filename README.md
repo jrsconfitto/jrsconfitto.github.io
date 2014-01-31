@@ -1,3 +1,5 @@
-# My github web space #
+# A place to post things
 
-Hello! [Check it out!](http://jugglingnutcase.github.io)
+> There are many like it, but this one is mine.
+
+Even if it is all borrowed and derivative, it's still mine.
