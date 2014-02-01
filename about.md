@@ -13,6 +13,7 @@ You can find me eating garbage plates, going to church, or whatever else it is i
 
 * [@jugglingnutcase](https://twitter.com/jugglingnutcase) on Twitter
 * [@jugglingnutcase](https://github.com/jugglingnutcase) on GitHub
+* [@jugglingnutcase](http://www.flickr.com/photos/jugglingnutcase/) on Flickr
 
 ## Colophon
 
