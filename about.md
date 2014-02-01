@@ -16,4 +16,4 @@ You can find me eating garbage plates, going to church, or whatever else it is i
 
 ## Colophon
 
-This site uses [Lanyon](https://github.com/poole/lanyon) from [Poole](http://getpoole.com/).
+This site uses [Lanyon](https://github.com/poole/lanyon) from [Poole](http://getpoole.com/) (thanks [@mdo](http://github.com/mdo))
