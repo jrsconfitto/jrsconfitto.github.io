@@ -16,8 +16,12 @@ layout: nil
         <style>
         body {
           background-color: #6A6AFF;
-          font-size: 36px;
+          font-size: 18px;
           font-family: 'Source Sans Pro', sans-serif;
+        }
+
+        .answer {
+          font-size: 42px;
         }
 
         .spinner {
@@ -47,6 +51,19 @@ layout: nil
             transform: scale(1.0);
             -webkit-transform: scale(1.0);
             opacity: 0;
+          }
+        }
+
+        @media (min-width: 900px) {
+          body {
+            font-size: 36px;
+          }
+          .answer {
+            font-size: 48px;
+          }
+          .spinner {
+            width: 120px;
+            height: 120px;
           }
         }
         </style>
