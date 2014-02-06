@@ -10,16 +10,61 @@ layout: nil
         <meta name="description" content="This is a status page for watching the Olympics at the Sconfitto household">
         <meta name="viewport" content="width=device-width">
 
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,900' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
+        <style>
+        body {
+          background-color: #6A6AFF;
+          font-size: 36px;
+          font-family: 'Source Sans Pro', sans-serif;
+        }
+
+        .spinner {
+          width: 40px;
+          height: 40px;
+          margin: 40px auto;
+          background-color: #333;
+
+          border-radius: 100%;  
+          -webkit-animation: scaleout 1.0s infinite ease-in-out;
+          animation: scaleout 1.0s infinite ease-in-out;
+        }
+
+        @-webkit-keyframes scaleout {
+          0% { -webkit-transform: scale(0.0) }
+          100% {
+            -webkit-transform: scale(1.0);
+            opacity: 0;
+          }
+        }
+
+        @keyframes scaleout {
+          0% { 
+            transform: scale(0.0);
+            -webkit-transform: scale(0.0);
+          } 100% {
+            transform: scale(1.0);
+            -webkit-transform: scale(1.0);
+            opacity: 0;
+          }
+        }
+        </style>
 
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
 
-        <h1>Can i watch the Olympics at the Sconfitto's now?</h1>
-        <h2 class="answer"></h2>
-        <p class="description"></p>
+        <h1 align="center">Can i watch the Olympics at the Sconfitto's now?</h1>
+
+        <div class="response">
+          <h2 class="answer"
+           align="center"></h2>
+          <p class="description"
+           align="center"></p>
+
+          <div class="spinner"></div>
+        </div> 
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
