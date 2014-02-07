@@ -10,8 +10,8 @@ function init() {
 }
 
 function showInfo(data, tabletop) {
-  $('.answer').text(data[0].answer)
-  $('.description').text(data[0].description)
+  $('.answer').text(data[data.length - 1].answer)
+  $('.description').text(data[data.length - 1].description)
 
   $('.spinner').hide()
 }
