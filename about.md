@@ -16,10 +16,10 @@ You can find me eating garbage plates, going to church, or whatever else it is i
 ## Find me around the internet
 
 * [@jugglingnutcase](https://twitter.com/jugglingnutcase) on Twitter
-* [@jugglingnutcase](https://github.com/jugglingnutcase) on GitHub
+* @jugglingnutcase on GitHub
 * [@jugglingnutcase](http://www.flickr.com/photos/jugglingnutcase/) on Flickr
 
 ## Colophon
 
-This site uses [Lanyon](https://github.com/poole/lanyon) from [Poole](http://getpoole.com/) (thanks [@mdo](http://github.com/mdo)) and [jekyll](http://jekyllrb.com).
+This site uses [Lanyon](https://github.com/poole/lanyon) from [Poole](http://getpoole.com/) (thanks @mdo) and [jekyll](http://jekyllrb.com).
 
