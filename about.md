@@ -3,7 +3,11 @@ layout: page
 title: About
 ---
 
-Currently attempting to be the nicest person on the internet... not sure how healthy that is though.
+## hi! i'm james :)
+
+![or jamie](/public/img/jamie.jpg)
+
+i'm currently attempting to be the nicest person on the internet... not sure how healthy that is though.
 
 ## Find me around Rochester
 
@@ -18,3 +22,4 @@ You can find me eating garbage plates, going to church, or whatever else it is i
 ## Colophon
 
 This site uses [Lanyon](https://github.com/poole/lanyon) from [Poole](http://getpoole.com/) (thanks [@mdo](http://github.com/mdo)) and [jekyll](http://jekyllrb.com).
+
