@@ -7,7 +7,7 @@ title: About
 
 ![or jamie](/public/img/jamie.jpg)
 
-i'm currently attempting to be the nicest person on the internet... not sure how healthy that is though.
+i'm currently attempting to be the nicest person on the internet... for some reason i doubt i'll succeed.
 
 ## Find me around Rochester
 
