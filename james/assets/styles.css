@@ -1,0 +1,36 @@
+h1 {
+	font-size: 5em;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Comic Sans MS, "Comic Sans MS", Arial, sans-serif;
+}
+
+.purp {
+	background-color: #FF74FF;
+}
+
+.background {
+	background-image: url(/images/background.jpg);
+	background-size: cover;
+	vertical-align: middle;
+}
+
+.center {
+	text-align: center;
+	margin: auto;
+}
+
+img.circular.lg {
+	border-radius: 250px;
+	width: 500px;
+	height: 500px;
+}
+
+img.circular {
+	border-radius: 150px;
+	width: 300px;
+	height: 300px;
+}
