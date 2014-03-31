@@ -22,3 +22,8 @@ github:
   repo:           https://github.com/jugglingnutcase/jugglingnutcase.github.io
 
 exclude:          ['LICENSE', 'README.md']
+
+gems:
+  - jemoji
+  - jekyll-mentions
+
