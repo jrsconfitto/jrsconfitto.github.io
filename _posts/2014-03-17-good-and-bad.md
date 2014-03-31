@@ -1,4 +1,7 @@
-# Good and Bad and learning something new
+---
+layout: post
+title: Good and Bad and learning something new
+---
 
 i missed the bus this morning. Normally i would consider that a bad thing, but i decided to make it an opportunity to learn something new. Every thing is a learning opportunity, especially failures, right? i think that's why the [following go maxim](http://senseis.xmp.net/?LoseYourFirst50GamesAsQuicklyAsPossible) exists:
 
