@@ -9,3 +9,6 @@ title: My reading list
 * Kavalier & Clay
 * The Divine Conspiracy
 
+## Do checkboxes work? i'm guessing not.
+
+* [ ] Checkboxes work?
