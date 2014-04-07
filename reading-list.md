@@ -8,7 +8,3 @@ title: My reading list
 * Steve Jobs
 * Kavalier & Clay
 * The Divine Conspiracy
-
-## Do checkboxes work? i'm guessing not.
-
-* [ ] Checkboxes work?
