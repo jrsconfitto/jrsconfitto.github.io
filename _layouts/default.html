@@ -26,6 +26,9 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
+    {% if site.dev != true %}
+    {% include ga.html %}
+    {% endif %}
     <script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');

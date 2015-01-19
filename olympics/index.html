@@ -104,6 +104,8 @@ layout: null
         }
         </script>
 
+        {% if site.dev != true %}
         {% include ga.html %}
+        {% endif %}
     </body>
 </html>
