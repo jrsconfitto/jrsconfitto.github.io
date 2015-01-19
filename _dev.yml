@@ -1,0 +1,32 @@
+dev:                true
+
+# Dependencies
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:            'Ruminations'
+tagline:          'a place to sit and think'
+description:      'so many thoughts and feelings thrown into the internet'
+
+author:
+  name:           'James R Sconfitto'
+  url:            https://twitter.com/jugglingnutcase
+  email:          jugglingnutcase@gmail.com
+
+paginate:         5
+
+github:
+  repo:           https://github.com/jugglingnutcase/jugglingnutcase.github.io
+
+exclude:          ['LICENSE', 'README.md']
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-sitemap
