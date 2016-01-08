@@ -28,4 +28,3 @@ ls -Recurse -Path *.js | Get-Content | Select-String -pattern 'todo'
 ```
 
 (Don't judge, i work at a Windows shop. Even though the command line shell itself is (imho) garbage, Powershell is actually quite nice *once you learn it*.)
-

@@ -7,6 +7,6 @@ While writing the above line in [this site's readme file](https://github.com/jug
 
 > This is my rifle. There are many like it, but this one is mine.
 >
-> My rifle is my best friend. It is my life. I must master it as I must master my life. 
+> My rifle is my best friend. It is my life. I must master it as I must master my life.
 
 Even though i spend a lot of time writing software, i don't want to say that i will live and die upon the hill of this personal site being mastered, but it's time for me to move towards mastery, and not just on whatever this thing is.
