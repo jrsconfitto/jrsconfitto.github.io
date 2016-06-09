@@ -1,15 +1,6 @@
 dev:                true
 
-# Dependencies
-highlighter:         pygments
-
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
-
-# Setup
+# Site
 title:            'Ruminations'
 tagline:          'a place to sit and think'
 description:      'so many thoughts and feelings thrown into the internet'
@@ -25,6 +16,9 @@ github:
   repo:           https://github.com/jugglingnutcase/jugglingnutcase.github.io
 
 exclude:          ['LICENSE', 'README.md']
+
+# Permalinks
+permalink:           pretty
 
 gems:
   - jemoji
