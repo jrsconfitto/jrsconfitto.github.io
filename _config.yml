@@ -1,7 +1,7 @@
 title:            'Ruminations'
 tagline:          'a place to sit and think'
 description:      'so many thoughts and feelings thrown into the internet'
-url:              https://jugglingnutcase.github.io
+url:              https://jrsconfitto.github.io
 
 author:
   name:           'James R Sconfitto'
@@ -11,7 +11,7 @@ author:
 paginate:         5
 
 github:
-  repo:           https://github.com/jugglingnutcase/jugglingnutcase.github.io
+  repo:           https://github.com/jrsconfitto/jrsconfitto.github.io
 
 exclude:          ['LICENSE', 'README.md']
 
