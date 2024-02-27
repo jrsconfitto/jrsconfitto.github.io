@@ -7,13 +7,11 @@ description:      'so many thoughts and feelings thrown into the internet'
 
 author:
   name:           'James R Sconfitto'
-  url:            https://twitter.com/jugglingnutcase
-  email:          jugglingnutcase@gmail.com
 
 paginate:         5
 
 github:
-  repo:           https://github.com/jugglingnutcase/jugglingnutcase.github.io
+  repo:           https://github.com/jrsconfitto/jrsconfitto.github.io
 
 exclude:          ['LICENSE', 'README.md']
 
